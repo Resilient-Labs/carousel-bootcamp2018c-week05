@@ -1,0 +1,25 @@
+*{
+  box-sizing: border-box;
+}
+html,body{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-image: url('../images/backimg.gif');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 770px;
+}
+img{
+  width: 500px;
+  height: 500px;
+}
+.img{
+  text-align: center;
+  margin-top: 300px;
+  padding-top: 165px;
+}
+.buttons{
+  text-align: center;
+}
