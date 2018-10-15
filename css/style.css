@@ -1,0 +1,71 @@
+* {
+     -moz-box-sizing: border-box; /* Firexfox */
+     -webkit-box-sizing: border-box; /* Safari/Chrome/iOS/Android */
+     box-sizing: border-box; /* IE */
+}
+
+/* Clear fix hack */
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+
+.clear {
+	clear: both;
+}
+
+body{
+  background: url("../img/back.jpg");
+  background-size: cover;
+  background-position: 0,100px;
+  font-family: 'Aladin', cursive;
+}
+header, footer{
+  height: 100px;
+  clear: both;
+}
+h1{
+
+  font-size: 82px;
+  text-align: center;
+  color: #BE5E76;
+  letter-spacing: 2px;
+  font-style: italic;
+  margin-top: 0;
+}
+.main{
+  background: url("../img/basket.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-left: 30%;
+  margin-top: 0;
+  height: 480px;
+  width: 50%;
+
+}
+#content{
+  height: 450px;
+  width: 40%;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-left: 19%;
+}
+#buttons{
+  text-align: center;
+}
+button {
+  background: #BE5E76;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  font-size: 1.2em;
+  font-family: monospace;
+  font-weight: bold;
+  margin-right: 3%;
+  margin-top: 10px;
+}
