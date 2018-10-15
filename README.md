@@ -1,24 +1,23 @@
 # What's in the Basket?
 This project is a complete carousel which displays different fruit and vegetables in a basket. The user has the ability to click on 'back' and 'next' buttons to navigate the items.
 
-**Link to project:** http://suspicious-nobel-d508eb.netlify.com/
+**Link to project:** https://mystifying-stallman-5862e0.netlify.com/
 
 ![alt tag](snapshot.png)
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Framework of choice
+**Tech used:** HTML, CSS, JavaScript
 
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+Using JavaScript I designed a simple navigation between an array of images. When the user clicks "next" the image source would be updated to the next image in the array. When the user clicks "back" the image source would be updated with the previous image in the array. It was necessary to consider edge cases such as when the user has reached the end of the array and clicks "next", or when they have reached the first index and click "back"
 
 ## Optimizations
-*(optional)*
 
-You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
+One feature I would like to add to this project is the ability for users to delete or add new images into the carousel.
 
 ## Lessons Learned:
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *fuck yeah I did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+Looping through an array continuously!
 
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
