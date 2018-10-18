@@ -1,0 +1,35 @@
+html{
+  background-image:url("../wolves/fullmoon.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-position:center;
+}
+body {
+  font-family: 'Tangerine', cursive;
+  font-size: 42px;
+  text-align: center;
+  background: transparent;
+  color: white;
+  margin: 1em;
+}
+img {
+  width:300px;
+  height:300px;
+}
+
+strong {
+  text-decoration: underline;
+}
+
+button {
+  background: #263c56;
+  color: white;
+  border: none;
+  padding: 10px 30px;
+  font-size: 40px;
+  font-family: 'Tangerine', cursive;
+  font-weight: bold;
+}
+button:active {
+  background: grey;
+}
