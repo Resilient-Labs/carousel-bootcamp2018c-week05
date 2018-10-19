@@ -19,8 +19,8 @@ One feature I would like to add to this project is the ability for users to dele
 
 Looping through an array continuously!
 
-## Examples:
-Take a look at these couple examples that I have in my own portfolio:
+## Related Projects:
+Take a look at these cool projects that I have in my portfolio:
 
 **To-Do List:** https://tender-ritchie-caee3b.netlify.com/
 
