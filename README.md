@@ -26,4 +26,4 @@ Take a look at these couple examples that I have in my own portfolio:
 
 **Slot Machine:** https://github.com/alecortega/twitter-battle
 
-**Student Attendance:** https://github.com/alecortega/patch-panel
+**Student Attendance:** https://sleepy-franklin-b8d685.netlify.com/
