@@ -1,22 +1,25 @@
-# 🎠 Week05 Bootcamp2018c Project: Carousel
+# Carousel Image Gallery
+Build a simple amage Carousel with a previous and next button
 
-### Goal: Build a Simple Image Carousel
+**Link to project:** https://amazing-jones-da0129.netlify.com
 
-### How to submit your code for review:
+![alt tag](gall.png)
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+## How It's Made:
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+**Tech used:** HTML5, CSS3, JavaScript.
+Styling for this project was done using a CSS Grid layout. Behaviour of moving thorugh images was made by iterating through an array of image url's to replace the src attribute in an image tag.
+
+## Optimizations
+Iteration of the image src and only using one image tag made the code more dry.
+
+## Lessons Learned:
+Solved how to repeat the array when we got to the end or start of the array.
+
+## Examples:
+
+**To-do List:** https://github.com/Eriquette/todo-list-2018c-week05/tree/answer
+
+**Daily Code Challenges:** https://github.com/Eriquette/Daily-Code-Challenges
+
+**OOP Calculator:** https://github.com/Eriquette/week01-alumni-project-calculator/tree/answer
