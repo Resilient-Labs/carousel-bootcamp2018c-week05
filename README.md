@@ -24,6 +24,6 @@ Take a look at these cool projects that I have in my portfolio:
 
 **To-Do List:** https://tender-ritchie-caee3b.netlify.com/
 
-**Slot Machine:** https://tender-brahmagupta-7fb0c7.netlify.com
+**Calculator:** https://pedantic-golick-4c339d.netlify.com/
 
 **Student Attendance:** https://sleepy-franklin-b8d685.netlify.com/
