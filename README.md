@@ -20,10 +20,10 @@ Take a look at these couple examples that I have in my own portfolio:
 
 **Slot Machine:** https://heuristic-shaw-2f031d.netlify.com/
 
-**Todo List:** https://github.com/Resilient-Labs/todo-list-2018c-week05
+**Todo List:** https://optimistic-jang-b15c0e.netlify.com/
 
-**Student List:** https://github.com/Resilient-Labs/student-list-bootcamp2018c-week05
+**Student List:** https://competent-curran-683be5.netlify.com/
 
-**Calculator:**https://github.com/NeverL3gend/calculator
+**Calculator:**https://sad-fermat-6ade04.netlify.com/
 
 ```
