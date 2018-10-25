@@ -1,0 +1,24 @@
+body{
+  text-align-last: center;
+
+  background-image: url("https://cdn.dribbble.com/users/77111/screenshots/2603500/attachments/519182/desktop_wallpaper_by_maria_shanina.png");
+  background-size: 1400px 685px;
+  background-repeat: no-repeat;
+}
+img{
+  height: 450px;
+  width: 650px;
+  display: block;
+  margin-left: 275px;
+
+}
+section{
+  display: block;
+  align-items: center;
+  margin-top: 50px;
+}
+h1{
+  color: yellow;
+  text-align: center;
+
+}
