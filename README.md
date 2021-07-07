@@ -1,22 +1,18 @@
-# 🎠 Week05 Bootcamp2018c Project: Carousel
+About Project
+========================================
+This application was relatively easy to make. I utilized some problems/applications I've seen before to help me build this. I kept the design very simple.
 
-### Goal: Build a Simple Image Carousel
 
-### How to submit your code for review:
+link to project here: https://confident-almeida-472564.netlify.com/
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+How it was made:
+============================================
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+JavaScript, Css, Html
+
+
+what I've learned
+============================================
+-I need to study up on DOM traversal 
+
+
